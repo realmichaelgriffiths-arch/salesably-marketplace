@@ -14,6 +14,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 ## Account Tiering System
 
 ### Tier 1: High Priority Accounts (HPA)
+
 - Strong signal matches
 - Excellent ICP fit
 - Active buying indicators
@@ -22,6 +23,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 **Action**: Immediate, personalized outreach with research investment
 
 ### Tier 2: Qualified Accounts
+
 - Good signal matches
 - Solid ICP fit
 - Some buying indicators
@@ -30,6 +32,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 **Action**: Prioritized outreach with moderate personalization
 
 ### Tier 3: Developing Accounts
+
 - Partial signal matches
 - Reasonable ICP fit
 - Limited buying indicators
@@ -38,6 +41,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 **Action**: Nurture sequences and monitoring
 
 ### Tier 4: Low Priority / Disqualified
+
 - Few or no signal matches
 - Poor ICP fit
 - No buying indicators
@@ -50,13 +54,14 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 ### Buying Intent Signals
 
 **Active Signals (High Value):**
+
 - Searching for solutions like yours
-- Requesting demos or trials from competitors
-- Attending relevant webinars or events
+- Requesting demos or tri**Reads From:** `.agents/product-marketing-context.md`ing relevant webinars or events
 - Engaging with your content repeatedly
 - Asking questions in industry forums
 
 **Passive Signals (Medium Value):**
+
 - Following competitors on social media
 - Downloading industry reports
 - Job postings indicating relevant needs
@@ -65,6 +70,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 ### Organizational Signals
 
 **Growth Indicators:**
+
 - Funding announcements
 - Hiring sprees (especially in relevant departments)
 - New office openings
@@ -72,6 +78,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 - Market expansion
 
 **Change Indicators:**
+
 - New leadership (especially in relevant roles)
 - Mergers or acquisitions
 - Strategic pivots announced
@@ -81,6 +88,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 ### Fit Signals
 
 **Company Characteristics:**
+
 - Industry alignment
 - Company size (employees, revenue)
 - Geographic match
@@ -88,6 +96,7 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 - Business model fit
 
 **Timing Indicators:**
+
 - Fiscal year timing
 - Budget cycles
 - Contract renewal windows
@@ -97,7 +106,9 @@ Identify, score, and prioritize accounts based on fit signals, buying indicators
 ## Qualification Criteria Framework
 
 ### Must-Have Criteria (Disqualifying if absent)
+
 Define absolute requirements:
+
 - Minimum company size
 - Required industry or vertical
 - Geographic constraints
@@ -132,6 +143,7 @@ Define absolute requirements:
 ## Account Research Checklist
 
 ### Company-Level Research
+
 - [ ] Company website and about page
 - [ ] Recent press releases
 - [ ] Leadership team profiles
@@ -142,6 +154,7 @@ Define absolute requirements:
 - [ ] Industry news and mentions
 
 ### Signal Validation
+
 - [ ] Verify signals are current (within 90 days)
 - [ ] Confirm decision-maker presence
 - [ ] Check for competing vendor relationships
@@ -151,6 +164,7 @@ Define absolute requirements:
 ## Ideal Customer Profile (ICP) Template
 
 ### Firmographics
+
 - **Industry**: [Primary and secondary verticals]
 - **Company Size**: [Employee range]
 - **Revenue**: [Revenue range]
@@ -158,16 +172,19 @@ Define absolute requirements:
 - **Growth Stage**: [Startup, Growth, Enterprise]
 
 ### Technographics
+
 - **Current Stack**: [Technologies they likely use]
 - **Complementary Tools**: [Solutions that work with yours]
 - **Competing Solutions**: [Alternatives they might have]
 
 ### Behavioral Indicators
+
 - **Buying Triggers**: [Events that create urgency]
 - **Content Interests**: [Topics they care about]
 - **Decision Process**: [How they typically buy]
 
 ### Negative Indicators
+
 - **Disqualifiers**: [Immediate deal-breakers]
 - **Warning Signs**: [Red flags to watch for]
 - **Poor Fit Patterns**: [Characteristics of bad deals]
